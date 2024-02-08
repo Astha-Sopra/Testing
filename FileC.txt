@@ -1,2 +1,4 @@
 FileC.txt
 Let's make a change
+This is for Squash merge
+Second change for squash merge
